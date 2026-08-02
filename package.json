@@ -10,9 +10,10 @@
   },
   "devDependencies": {
     "axios": "^1.7.7",
-    "glob": "^10.0.0",
+    "glob": "^10.5.0",
     "izitoast": "^1.4.0",
     "simplelightbox": "^2.14.3",
-    "vite": "^5.4.6"
+    "vite": "^5.4.6",
+    "vite-plugin-html-inject": "^1.0.1"
   }
 }
